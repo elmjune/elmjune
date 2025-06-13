@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my profile!
 
-<!--
-**elmjune/elmjune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+ 
+[Raycast](https://github.com/transgwender/Raycast): A relaxing light-based puzzle game. You can play it online [here](https://teamlightbox.itch.io/raycast).
 
-Here are some ideas to get you started:
+<img src="https://img.itch.zone/aW1hZ2UvMzI1Njc1NC8xOTQ4NjY0My5wbmc=/original/wKqzud.png" width="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[chip8](https://github.com/elmjune/chip8): An emulator for the CHIP-8 written in Rust.
+
+<img src="https://github.com/elmjune/chip8/blob/main/res/clip3.jpg?raw=true" width="300">
+
+[feeds](https://github.com/elmjune/feeds): An Atom/RSS feed reader, written in Python.
+
+<img src="https://github.com/elmjune/feeds/blob/main/res/clip2.jpg?raw=true" width="300">
